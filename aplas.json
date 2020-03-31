@@ -19,7 +19,28 @@
       "sme_name": "Catherine Carek",
       "months_to_renew_support": "30",
       "sme_email": "Catherine.Carek@memento.net.au",
-      "investment_number": "369"
+      "investment_number": "369",
+      "integrations": [
+        {
+          "id": "int-395",
+          "name": "INT-395",
+          "categoryId": "f584fe23-c532-404a-bf69-4bcbcea094d3",
+          "description": "Aliquam sit amet diam in magna bibendum imperdiet.",
+          "sourceApplicationId": "innovation_4g",
+          "targetApplicationId": "granular_big_data",
+          "logical_server": "BATCH",
+          "status_color": "#00FF00",
+          "pattern": "Aggregator",
+          "golive_date": "3/5/10",
+          "sme_name": "Lee Brelsford",
+          "datacentre": "Dandenong",
+          "department": "Integration",
+          "status": "Active",
+          "sme_email": "lbrelsfordl@memento.net.au",
+          "complexity": "Low",
+          "last_deployment_date": "26/6/15"
+        }
+      ]
     }
   ]
 }
