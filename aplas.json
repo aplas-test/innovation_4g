@@ -1,21 +1,25 @@
 {
-  "id": "innovation_4g",
-  "name": "Innovation 4G",
-  "categoryId": "billing",
-  "description": "Networked background circuit",
-  "investment_24m": "888",
-  "hostedtype": "OnPremise",
-  "licensing_cost": "57",
-  "status_color": "#00FF00",
-  "type": "OffShelf",
-  "support_cost": "462",
-  "deployment_date": "19/11/08",
-  "end_of_maintenance": "17/9/17",
-  "department": "Engineering",
-  "status": "Active",
-  "end_of_life": "15/5/19",
-  "sme_name": "Catherine Carek",
-  "months_to_renew_support": "30",
-  "sme_email": "Catherine.Carek@memento.net.au",
-  "investment_number": "369"
+  "applications": [
+    {
+      "id": "innovation_4g",
+      "name": "Innovation 4G",
+      "categoryId": "billing",
+      "description": "Networked background circuit",
+      "investment_24m": "888",
+      "hostedtype": "OnPremise",
+      "licensing_cost": "57",
+      "status_color": "#00FF00",
+      "type": "OffShelf",
+      "support_cost": "462",
+      "deployment_date": "19/11/08",
+      "end_of_maintenance": "17/9/17",
+      "department": "Engineering",
+      "status": "Active",
+      "end_of_life": "15/5/19",
+      "sme_name": "Catherine Carek",
+      "months_to_renew_support": "30",
+      "sme_email": "Catherine.Carek@memento.net.au",
+      "investment_number": "369"
+    }
+  ]
 }
