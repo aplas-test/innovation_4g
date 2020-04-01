@@ -26,7 +26,6 @@
           "name": "INT-395",
           "categoryId": "f584fe23-c532-404a-bf69-4bcbcea094d3",
           "description": "Aliquam sit amet diam in magna bibendum imperdiet.",
-          "sourceApplicationId": "innovation_4g",
           "targetApplicationId": "granular_big_data",
           "logical_server": "BATCH",
           "status_color": "#00FF00",
